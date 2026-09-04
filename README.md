@@ -4,69 +4,69 @@ The Intelligent UPI Fraud Detection System is a web-based application designed t
 The system analyzes transaction-related features and predicts whether a transaction is likely to be genuine or fraudulent. It combines Machine Learning algorithms with a Django web application to provide an interactive and user-friendly fraud detection platform.
 
 ## Project Objectives
-. Detect potentially fraudulent UPI transactions using Machine Learning.
-. Analyze transaction patterns and user behavior.
-. Compare multiple Machine Learning models.
-. Provide fraud prediction results through a web application.
-. Allow users to securely register and log in.
-. Store transaction and prediction records in a database.
-. Provide dashboards and analytics for transaction monitoring.
+- Detect potentially fraudulent UPI transactions using Machine Learning.
+- Analyze transaction patterns and user behavior.
+- Compare multiple Machine Learning models.
+- Provide fraud prediction results through a web application.
+- Allow users to securely register and log in.
+- Store transaction and prediction records in a database.
+- Provide dashboards and analytics for transaction monitoring.
 
 ## Features
-. User Registration and Login
-. Interactive Dashboard
-. Transaction Data Input
-. Machine Learning-Based Fraud Prediction
-. Model Performance Comparison
-. Prediction History
-. Transaction Monitoring
-. Admin Management
-. Fraud Analytics and Reports
+- User Registration and Login
+- Interactive Dashboard
+- Transaction Data Input
+- Machine Learning-Based Fraud Prediction
+- Model Performance Comparison
+- Prediction History
+- Transaction Monitoring
+- Admin Management
+- Fraud Analytics and Reports
 
 ## Machine Learning Algorithms
 The project evaluates Machine Learning models for fraud prediction, including:
 
-. Logistic Regression
-. Random Forest Classifier
-. XGBoost Classifier
+- Logistic Regression
+- Random Forest Classifier
+- XGBoost Classifier
 
 The models are evaluated using performance metrics such as:
 
-. Accuracy
-. Precision
-. Recall
-. F1-Score
+- Accuracy
+- Precision
+- Recall
+- F1-Score
 
 The project documentation identifies XGBoost as the strongest-performing model in the reported evaluation.
 
 ## Technologies Used
 ### Programming Language
-. Python
-. Web Framework
-. Django
+- Python
+- Web Framework
+- Django
 ### Frontend
-. HTML
-. CSS
-. JavaScript
-. Bootstrap
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
 ### Machine Learning
-. Scikit-learn
-. XGBoost
+- Scikit-learn
+- XGBoost
 ### Database
-. SQLite
+- SQLite
 ### Development Tools
-. Visual Studio Code
-. Google Chrome
+- Visual Studio Code
+- Google Chrome
 
 ##Input Parameters
 The system uses transaction-related information such as:
 
-. Transaction Amount
-. Transaction Count
-. Hour of Transaction
-. Payment Mode
-. Device Type
-. Transaction Status
+- Transaction Amount
+- Transaction Count
+- Hour of Transaction
+- Payment Mode
+- Device Type
+- Transaction Status
 
 These features are processed before being passed to the Machine Learning model for fraud prediction.
 
@@ -102,13 +102,13 @@ These features are processed before being passed to the Machine Learning model f
 <img width="1920" height="977" alt="FRAUDULENT" src="https://github.com/user-attachments/assets/8634c174-db3a-4fed-a60b-191a538623e5" />
 
 ## Future Enhancements
-. Real-time UPI transaction monitoring
-. Integration with banking APIs
-. Deep Learning-based fraud detection
-. Automated model retraining
-. Cloud deployment
-. Mobile application support
-. Advanced fraud analytics and threat forecasting
+- Real-time UPI transaction monitoring
+- Integration with banking APIs
+- Deep Learning-based fraud detection
+- Automated model retraining
+- Cloud deployment
+- Mobile application support
+- Advanced fraud analytics and threat forecasting
 
 ## Author
 Snehal Gurnule
