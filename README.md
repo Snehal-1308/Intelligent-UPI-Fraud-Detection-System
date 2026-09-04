@@ -84,7 +84,7 @@ These features are processed before being passed to the Machine Learning model f
 ### Home Page
 <img width="1920" height="986" alt="HOME" src="https://github.com/user-attachments/assets/d5bf6813-9e6f-4a36-8f7b-bc2dc1f7cf98" />
 
-###About Page
+### About Page
 <img width="1920" height="980" alt="ABOUT" src="https://github.com/user-attachments/assets/2ef357f6-282f-41f4-8674-14e6ad2b4d2f" />
 
 ### Registration Page
